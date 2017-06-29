@@ -2,6 +2,8 @@
 57122420509
 ## ชื่อ - นามสกุล
 rasika   rampichai
+#  ชื่อเล่น
+รุ้ง
 
 # Header 1
 ## Header 2
